@@ -14,3 +14,10 @@
 
 See also [wikipedia jshell](https://en.wikipedia.org/wiki/JShell).
 
+## misc
+
+### [JetBrains MPS](https://www.jetbrains.com/mps/)
+
+> MPS Meta Programming System.
+> 
+> Create your own domain-specific language.

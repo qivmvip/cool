@@ -21,3 +21,11 @@ See also [wikipedia jshell](https://en.wikipedia.org/wiki/JShell).
 > MPS Meta Programming System.
 > 
 > Create your own domain-specific language.
+
+### [endoflife.date](https://endoflife.date/)
+
+> End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products.
+>
+> endoflife.date aggregates data from various sources and presents it in an understandable and succinct manner. It also makes the data available using an easily accessible API and has iCalendar support.
+
+See also [endoflife.date api](https://endoflife.date/docs/api)
